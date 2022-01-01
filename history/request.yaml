@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: RS01SLBS-LJ01A-05-HPIESA101-streamed-calibration_status
-last_request: '2021-12-21T23:23:03.296283Z'
+last_request: '2022-01-01T02:52:21.822584Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SLBS-LJ01A-05-HPIESA101-streamed-calibration_status/main/history/response.json
 status: discontinued
